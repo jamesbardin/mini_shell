@@ -1,14 +1,1 @@
-CS 61 Problem Set 5
-===================
-
-**Fill out both this file and `AUTHORS.md` before submitting.** We grade
-anonymously, so put all personally identifying information, including
-collaborators, in `AUTHORS.md`.
-
-Grading notes (if any)
-----------------------
-
-
-
-Extra credit attempted (if any)
--------------------------------
+Shell implemented with a subset of bash shell's syntax. Including support simple commands, conditional commands (&& and ||), pipes, background commands, and redirections, as well as the incredible cd command, and more. 
